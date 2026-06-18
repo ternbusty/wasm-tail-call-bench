@@ -1,0 +1,8 @@
+.gradle/
+build/
+.kotlin/
+.idea/
+kotlin-js-store/
+*.iml
+.DS_Store
+results-*.txt
